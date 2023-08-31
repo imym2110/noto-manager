@@ -1,0 +1,19 @@
+.formContainer {
+}
+.title {
+  font-weight: bold;
+  text-align: center;
+}
+.formGroup {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.formGroup > * {
+  margin: 10px;
+}
+.button {
+  margin-top: 15px;
+  width: 100%;
+}
